@@ -1,3 +1,3 @@
-# OpenGL-Demo
+# 3D-Game-Demo
 # GIF
-![img](https://github.com/Alannnnnn/OpenGL-Demo/blob/master/1.gif)
+![GIF](https://github.com/Alannnnnn/OpenGL-Demo/blob/master/1.gif)
